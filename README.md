@@ -10,6 +10,7 @@ Delete selected folder: Delete individual folders.
 
 
 How to Use:
+Download the zipped file , run the index file 
 Create a folder: Start by creating a folder to store your journal entries.
 Select your folder: Open the sidebar, select the folder you just created, and close the sidebar.
 Write entries: Tap the "+" on the bottom navigation bar to start writing your journal entries.
